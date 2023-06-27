@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2023
 client: Mechanical Lab Design 1-2
 category: Product Development
-description: Designed and built a scale model bridge testing device for use in the Florida Polytechnic University Skills and Design class. The goal was to decrease the time it took to test a student bridge in the class, and provide more accurate data. Key features include automatic failure detection, accurate axial and vertical force readings, and user interface functions to allow students to decide if they would like to test their bridge until catastrophic failure.
+description: Designed and built a scale model bridge testing device for use in the Florida Polytechnic University Skills and Design class. The goal was to decrease the time it took to test a student bridge in the class, and provide more accurate data. Key features include automatic failure detection, accurate axial and vertical force readings, and user interface functions to allow students to decide if they would like to test their bridge until catastrophic failure. There is a 12V DC worm gear motor that provides the downwards force to test the bridges, mounted to a pulley subassembly. That subassembly is connected to a load cell, which is calibrated and sends the live data to the LCD. The project is controlled with an Arduino Uno.
 ---
