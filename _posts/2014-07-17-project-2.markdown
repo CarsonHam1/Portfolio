@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2023-06-20
+img: Screw_Measure.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2023
+client: Personal
+category: Product Design
+description: This project was started with the intent to increase the speed and accuracy of counting large numbers of screws for various projects, as well as reduce the monotony. The project consists of a drum that carries screws into a chute in the back of the body, where a laser and a receiver are placed to count screws as they fall into a container below. The device is powered by an Arduino Nano and coded in Arduino IDE.
 ---
