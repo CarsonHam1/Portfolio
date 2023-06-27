@@ -49,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f219";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -120,6 +120,10 @@ header .intro-text .skills {
     }
 
     header .intro-text .skills {
+        font-size: 1.25em;
+    }
+
+    header .intro-text .degree {
         font-size: 1.75em;
     }
 }
