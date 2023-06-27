@@ -28,7 +28,7 @@ color:
   primary: 1c66e3 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 8b8b96 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary-dark: 280096 #A2122F
 
 # Footer settings
 footer:
@@ -39,16 +39,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/carson-ham-a655b1207/
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
